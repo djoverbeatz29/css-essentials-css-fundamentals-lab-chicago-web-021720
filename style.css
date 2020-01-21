@@ -12,7 +12,8 @@ a {
   padding-left: 10px;
 }
 
-#featured-property + p {
+/* #featured-property + */
+p {
   padding-left: 25%;
   padding-right: 25%;
   text-align: left;
