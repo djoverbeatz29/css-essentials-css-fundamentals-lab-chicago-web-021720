@@ -12,10 +12,9 @@ a {
   padding-left: 10px;
 }
 
-/* #featured-property {
-  border-style
+#featured-property {
+  border-style: dotted;
 }
-+ */
 
 p {
   padding-left: 25%;
