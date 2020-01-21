@@ -13,14 +13,13 @@ a {
 }
 
 #featured-property {
-  
+  border-style: dotted;
 }
 
-#featured-property + p {
+p {
   padding-left: 25%;
   padding-right: 25%;
   text-align: left;
-  border-style: dotted;
 }
 
 
