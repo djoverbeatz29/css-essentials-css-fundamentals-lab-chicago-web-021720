@@ -14,10 +14,12 @@ a {
 
 #featured-property {
   font-size: 15px;
+  background-color: red;
 }
 
-p + #info {
+p {
   padding-left: 25%;
   padding-right: 25%;
   text-align: left;
+  border-style: dotted;
 }
