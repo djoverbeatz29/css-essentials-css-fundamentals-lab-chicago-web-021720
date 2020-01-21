@@ -12,6 +12,14 @@ a {
   padding-left: 10px;
 }
 
+p {
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: left;
+  border-style: dotted;
+}
+
+
 #featured-property {
   padding-left: 5%;
   padding-right: 5%;
@@ -19,9 +27,6 @@ a {
   background-color: red;
 }
 
-p {
-  padding-left: 25%;
-  padding-right: 25%;
-  text-align: left;
-  border-style: dotted;
+#details {
+  
 }
