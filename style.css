@@ -20,13 +20,10 @@ p.info {
 }
 
 
-#featured-property {
+#details {
+  display: block;
   padding-left: 5%;
   padding-right: 5%;
   font-size: 15px;
   background-color: red;
-}
-
-#details {
-  display: block;
 }
